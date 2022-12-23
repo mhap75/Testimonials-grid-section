@@ -299,6 +299,10 @@ p {
 }
 
 .Daniel_Clifford {
+    background-image: url("../image/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: right 7rem top 0;
+
     .card_title::before {
         background-image: url("../image/image-daniel.jpg");
     }
